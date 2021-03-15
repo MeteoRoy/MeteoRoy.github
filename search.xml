@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>更新日志</title>
+      <link href="2021/03/13/updatelog/"/>
+      <url>2021/03/13/updatelog/</url>
+      
+        <content type="html"><![CDATA[<h2 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h2><h4 id="3月"><a href="#3月" class="headerlink" title="3月"></a>3月</h4><blockquote><p>·15日<br>– 更换字体为字魂萌趣奶油体<br>– 创建并上传post模板v1.0，增加post加密功能<br>– 修改UI颜色，增加搞笑title，修改了title和主页logo<br>– 变更鼠标样式，增加鼠标单机烟花特效<br>– 增加了背景动效(线条、丝带)及天气控件<br>– 修改了aboutme和主页的文字并调整字号，修改了个人头像</p></blockquote><!-- 字体ttf保存在theme/source/font文件夹中，配置theme/sourse/css/my.css第一个代码块 副标题sub修改在theme/layout/_partail/bg-cover-content.ejstitle和烟花特效在theme/layout/layout.ejs,同时新增了/theme/source/js的两个文件天气增加到了/theme/_partial/header背景等动效在theme/_comfig.yml--><blockquote><p>·14日<br>– 更换网页主题为metery，修改背景图片和部分个性化设置，完善细节。<br>– 首页菜单新增：痕迹，并完善了二级菜单。</p></blockquote><blockquote><p>·13日<br>– 调试主题，创建序章说明<br>– 创建更新日志</p></blockquote><blockquote><p>·12日<br>– 博客主页搭建;</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Debug </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>序章</title>
+      <link href="2021/03/12/hello-world/"/>
+      <url>2021/03/12/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>  欢迎浏览(づ◡ど)朵 喵 喵ฅ(• ◡ •)ฅﻌﻌﻌ♥，博客采用<a href="%22https://github.com/shw2018/hexo-theme-matery%22">hexo-theme-matery</a>主题样式，并在此为模板做了修改。</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="1-博客搭建"><a href="#1-博客搭建" class="headerlink" title="#1　博客搭建"></a>#1　博客搭建</h3><p>  </p><h3 id="2-目前待办问题及注意事项"><a href="#2-目前待办问题及注意事项" class="headerlink" title="#2　目前待办问题及注意事项"></a>#2　目前待办问题及注意事项</h3><ol><li>需要写博客模板，提高编辑、上传效率</li><li>主题字体应用了预设字体，后续应考虑添加美化中文字体包。</li><li>博客应添加更新日志，记录博客的内容变更。</li></ol><h3 id="3-其他链接"><a href="#3-其他链接" class="headerlink" title="#3 其他链接"></a>#3 其他链接</h3><p><a href="https://github.com/MeteoRoy/MeteoRoy.github.io">访问github仓库主页</a><br><a href="https://hexo.io/zh-cn/">访问hexo中文主页</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
